@@ -26,11 +26,11 @@ Soy **Software Engineer** y **Web Developer**. Construyo aplicaciones web de pri
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=vue,ts,vite,html,css&theme=dark&perline=8" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=vue,ts,html,css&theme=dark&perline=8" alt="Frontend" />
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark&perline=8" alt="Herramientas" />
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=8" alt="Herramientas" />
 
 </div>
 
